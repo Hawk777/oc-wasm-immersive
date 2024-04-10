@@ -1,3 +1,13 @@
+Moved
+=====
+
+This crate is published separately but is no longer maintained in its own Git
+repository. It is now part of
+[oc-wasm-rust](https://gitlab.com/Hawk777/oc-wasm-rust).
+
+About
+=====
+
 OC-Wasm-Immersive provides high-level APIs for accessing components
 provided by [Immersive
 Engineering](https://curseforge.com/minecraft/mc-mods/immersive-engineering)
